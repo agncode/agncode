@@ -1,7 +1,7 @@
 ## Hi there, I'm Agung 👋
 
-I'm an aspiring **Programmer** and **Illustrator** who loves building things and drawing characters.  
-Currently learning to balance both worlds — clean code and clean lineart.
+I'm an aspiring **Programmer** and **Illustrator** currently working as an **elementary school teacher**.  
+Balancing code, creativity, and classroom life keeps me curious and constantly learning.
 
 ### 🚀 What I'm focusing on
 - Learning modern programming fundamentals  
