@@ -1,13 +1,13 @@
 ## Hi there, I'm Agung 👋
 
-I'm an aspiring **Programmer** and **Illustrator** currently working as an **elementary school teacher**.  
+I'm a **Freelance Illustrator** and also work as an **elementary school teacher**.  
 Balancing code, creativity, and classroom life keeps me curious and constantly learning.
 
 ### 🚀 What I'm focusing on
-- Learning modern programming fundamentals  
-- Exploring web development & automation  
-- Improving my digital art and character design  
-- Creating simple projects that mix code + creativity
+— Learning modern programming fundamentals  
+— Exploring web development & automation  
+— Improving my digital art and character design  
+— Creating simple projects that mix code + creativity
 
 ### 🎨 A little about me
 I enjoy making cute characters, visual experiments, and small tools that help people create.  
